@@ -6,3 +6,5 @@
 - 📫 How to reach me: amorg025@odu.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I hate bugs, both real and digital
+
+Here are the latest [pages](https://meagherpatrick.github.io/CS350-Wends1/) for a school project I was working on in Spring 2023.
