@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🚀 I'm Alysha
-- 🔭 I’m currently working on Reason.Io, a game-based learning platform designed to enhance logical and reasoning skills for users of all age groups.
+- 🔭 I’m currently working on ReasonED.Io, a game-based learning platform designed to enhance logical and reasoning skills for users of all age groups.
 - 🌱 I’m currently learning Professional Workforce Development, Computational Methods & Software, Cyber Techniques & Operation, Networks & Communications, and Internet Concepts.
 - 📫 How to reach me: amorg025@odu.edu
 - 😄 Pronouns: She/Her
