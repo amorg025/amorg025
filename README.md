@@ -8,4 +8,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I hate bugs, both real and digital.
 
-Here are the latest [pages](https://meagherpatrick.github.io/CS350-Wends1/) for a college project I was working on in Spring 2023.
+Here are the latest [pages](https://meagherpatrick.github.io/CS350-Wends1/) for a project I was working on in Spring 2023.
